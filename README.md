@@ -1,4 +1,4 @@
 # Projects
-Telegram-BOT 
+Telegram-BOT (@Guide_BB_bot)
 Проект создан с целью помощи в адаптации новых сотрудников в компании, телеграм-бот является путеводителем по часто задаваемым вопросам.
 При создании бота была использована библиотека pyTelegramBotAPI (pip install pyTelegramBotAPI).
